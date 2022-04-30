@@ -15,7 +15,7 @@ I am a Full Stack Developer .
 
 - 🔭 I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
 - ⚡ In my free time I solve problems on stackoverflow and read tech articles.
-- 📫 How to reach me: &nbsp; [![Linkedin Badge](https://img.shields.io/badge/-behnam hosseini-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/behnam-hoseyni-904949164/)
+- 📫 How to reach me: &nbsp; [![Linkedin Badge](https://img.shields.io/badge/-behnamhosseini-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/behnam-hoseyni-904949164/)
 
 ---
 
